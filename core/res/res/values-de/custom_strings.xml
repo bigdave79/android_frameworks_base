@@ -25,7 +25,7 @@
     <string name="permdesc_recordScreen">Erlaubt der Anwendung den Inhalt des Bildschrims aufzunehmen</string>
 
     <!-- label for screen record item in phone options dialog -->
-    <string name="global_action_screen_record">Bildschrimrekorder</string>
+    <string name="global_action_screen_record">Bildschirmrekorder</string>
 
 </resources>
 
