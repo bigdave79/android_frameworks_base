@@ -35,4 +35,14 @@
     <string name="quick_settings_screenshot">Скриншот</string>
     <string name="quick_settings_sync">Синхронизация</string>
     <string name="quick_settings_sync_off">Синхронизация выкл</string>
+    <string name="quick_settings_doze">Doze включено</string>
+    <string name="quick_settings_doze_off">Doze выключено</string>
+     
+    <!-- Task Killer -->
+    <string name="tasklist_killall">Закрыть все</string>
+    <string name="tasklist_memory_usage" formatted="false">Доступно/Всего памяти: %s / %s</string>
+    <string name="message_keep_one_launcher">Требуется хотя бы один работающий лаунчер!</string>
+
+    <!-- Nav bar power button -->
+    <string name="navbar_power_button">Кнопка питания</string>
 </resources>
