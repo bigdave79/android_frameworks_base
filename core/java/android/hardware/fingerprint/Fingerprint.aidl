@@ -1,5 +1,5 @@
 /*
- * Copyright (C) 2014 The CyanogenMod Project
+ * Copyright (C) 2015 The CyanogenMod Project
  *
  * Licensed under the Apache License, Version 2.0 (the "License");
  * you may not use this file except in compliance with the License.
@@ -13,20 +13,7 @@
  * See the License for the specific language governing permissions and
  * limitations under the License.
  */
+package android.hardware.fingerprint;
 
-package com.android.systemui.statusbar.policy;
-
-public interface WeatherController {
-    void addCallback(Callback callback);
-    void removeCallback(Callback callback);
-    WeatherInfo getWeatherInfo();
-
-    public interface Callback {
-        void onWeatherChanged(WeatherInfo temp);
-    }
-    public static class WeatherInfo {
-        public String temp = null;
-        public String city = null;
-        public String condition = null;
-    }
-}
+/** @hide */
+parcelable Fingerprint;

@@ -21,7 +21,28 @@
     <!-- Content description of the data connection type HSPA+ for accessibility (not shown on the screen). [CHAR LIMIT=NONE] -->
     <string name="accessibility_data_connection_HP">HSPA+</string>
 
+    <!-- Quick settings -->
+    <string name="quick_settings_battery_saver">Energiesparmodus</string>
+    <string name="quick_settings_battery_saver_off">Energiesparmodus aus</string>
+    <string name="quick_settings_doze">Schlummermodus</string>
+    <string name="quick_settings_doze_off">Schlummermodus aus</string>
+    <string name="quick_settings_brightness">Helligkeit</string>
+    <string name="quick_settings_expanded_desktop">Erweitert</string>
+    <string name="quick_settings_expanded_desktop_off">Normal</string>
+    <string name="quick_settings_screen_off">Bildschirm aus</string>
+    <string name="quick_settings_screenshot">Bildschirmfoto</string>
+    <string name="quick_settings_sync">Sync</string>
+    <string name="quick_settings_sync_off">Sync aus</string>
+
     <!-- Heads up toast -->
     <string name="heads_up_enabled">Heads-Up Benachrichtigungen sind aktiviert</string>
     <string name="heads_up_disabled">Heads-Up Benachrichtigungen sind deaktiviert</string>
+    
+    <!-- Task Manager -->
+    <string name="task_manager_title">Task-Manager</string>
+    <string name="message_switch_fail">Dieser Task besitzt keine Benutzeroberfläche, wechseln nicht möglich.</string>
+    <string name="tasklist_killall">Alle beenden</string>
+    <string name="tasklist_memory_usage">"Frei/Gesamt Speicher: [<xliff:g id="number">%s</xliff:g>] / [<xliff:g id="name">%s</xliff:g>]"</string>
+    <string name="message_keep_one_launcher">Ein Launcher sollte aktiv bleiben!</string>
+
 </resources>

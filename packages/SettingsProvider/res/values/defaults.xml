@@ -164,7 +164,7 @@
     <integer name="def_download_manager_recommended_max_bytes_over_mobile">-1</integer>
 
     <!-- Default for Settings.Secure.LONG_PRESS_TIMEOUT_MILLIS -->
-    <integer name="def_long_press_timeout_millis">500</integer>
+    <integer name="def_long_press_timeout_millis">400</integer>
 
     <!-- Default for Settings.System.POINTER_SPEED -->
     <integer name="def_pointer_speed">0</integer>
@@ -227,6 +227,9 @@
 
     <!-- Default for Settings.Secure.WAKE_GESTURE_ENABLED -->
     <bool name="def_wake_gesture_enabled">true</bool>
+
+    <!-- Default for Settings.System.DOUBLE_TAP_SLEEP_GESTURE -->
+    <integer name="def_double_tap_sleep_gesture">1</integer>
 
     <!-- Default for Settings.Global.GUEST_USER_ENABLED -->
     <bool name="def_guest_user_enabled">true</bool>

@@ -26,6 +26,26 @@
 
     <!-- label for screen record item in phone options dialog -->
     <string name="global_action_screen_record">Bildschirmrekorder</string>
+    
+    <string name="silent_mode_priority">Wichtig</string>
+    <string name="silent_mode_none">Keine</string>
+    
+    <!-- AOKP custom system animations -->    
+    <string name="animation_fade">Verblassen</string>
+    <string name="animation_slide_right">Von rechts einblenden</string>
+    <string name="animation_slide_left">Von links einblenden</string>
+    <string name="animation_slide_right_no_fade">Von rechts einblenden (Kein Verblassen)</string>
+    <string name="animation_slide_left_no_fade">Von links einblenden (Kein Verblassen)</string>
+    <string name="animation_slide_up">Von unten einblenden</string>
+    <string name="animation_slide_down">Von oben einblenden</string>
+    <string name="animation_default">Standard</string>
+    <string name="animation_translucent">Transparent</string>
+    <string name="animation_grow_shrink">Zunehmend (Oben)</string>
+    <string name="animation_grow_shrink_center">Zunehmend (Mitte)</string>
+    <string name="animation_grow_shrink_bottom">Zunehmend (Unten)</string>
+    <string name="animation_grow_shrink_left">Zunehmend (Links)</string>
+    <string name="animation_grow_shrink_right">Zunehmend (Rechts)</string>
 
 </resources>
+
 
